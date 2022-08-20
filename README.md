@@ -1,0 +1,1 @@
+# gofillstruct.vim
